@@ -1,5 +1,5 @@
 # Hi, I'm Roshan.
-#### I'm a high school student looking to study computer science. Feel free to reach out :)
+#### I'm a high school student currently pursuing an education in Computer Science!
 ---
 #### Currently working on a variety of projects, mostly in Python, Java and Javascript.
 #### Take a look around my profile to check some of them out!
