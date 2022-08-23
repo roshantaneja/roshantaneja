@@ -1,6 +1,7 @@
 # Hi, I'm Roshan.
 #### I'm a high school student currently pursuing an education in Computer Science!
 ---
+[![Roshans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daroshi11260)](https://github.com/anuraghazra/github-readme-stats)
 #### Currently working on a variety of projects, mostly in Python, Java and Javascript.
 #### Take a look around my profile to check some of them out!
 ---
