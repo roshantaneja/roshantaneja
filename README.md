@@ -7,7 +7,7 @@
 #### Take a look around my profile to check some of them out!
 ---
 >📫 How to reach me:
->> Email: rytaneja@gmail.com
+>> Email: <h1 href="mailto:rytaneja@gmail.com">rytaneja@gmail.com</h1>
 >> 
 >> Discord: Yoshi#6221
 
