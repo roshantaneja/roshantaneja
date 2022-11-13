@@ -1,5 +1,6 @@
 # Hi, I'm Roshan.
 #### I'm a high school student currently pursuing an education in Computer Science!
+![](https://komarev.com/ghpvc/?username=daroshi11260&color=green&style=flat-square)
 ---
 ![Daroshi11260's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daroshi11260&count_private=true&show_icons=true&theme=radical)
 #### Currently working on a variety of projects, mostly in Python, Java and Javascript.
