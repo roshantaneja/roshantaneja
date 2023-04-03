@@ -1,5 +1,5 @@
 # Hi, I'm Roshan.
-![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Monospace&pause=1000&color=F7F7F7&width=500&lines=I+make+web+applications;I+am+learning+computer+science+in+school)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Monospace&pause=1000&color=F7F7F7&width=500&lines=wow+this+is+a+cool+typing+widget;Get+in+contact+down+below!)
 #### I'm a high school student currently pursuing an education in Computer Science!
 ![](https://komarev.com/ghpvc/?username=daroshi11260&color=green&style=flat-square)
 ---
