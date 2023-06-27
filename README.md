@@ -12,7 +12,7 @@
 >📫 How to reach me:
 >> Email: <h4 href="mailto:rytaneja@gmail.com">rytaneja@gmail.com</h4>
 >> 
->> Discord: roshan#6221
+>> Discord: roshantaneja
 
 <!--
 **Daroshi11260/Daroshi11260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
