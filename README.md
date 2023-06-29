@@ -1,15 +1,15 @@
 # Hi, I'm Roshan.
-![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Monospace&pause=1000&color=F7F7F7&width=500&lines=wow+this+is+a+cool+typing+widget;Get+in+contact+down+below!)
-#### I'm a high school student currently pursuing an education in Computer Science!
+#### I'm a high school student pursuing an education in Computer Science!
 ![](https://komarev.com/ghpvc/?username=daroshi11260&color=green&style=flat-square)
 ---
 <!--
 ![Daroshi11260's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daroshi11260&count_private=true&show_icons=true&theme=radical)
 -->
-#### Currently working on a variety of projects, mostly in Python, Java and Javascript.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daroshi11260&hide=html,javascript,css)
+
+<!--
 ![Skills](https://skillicons.dev/icons?i=py,java,cpp,discord,bots,js,html,pug,css,mongo,aws,ps,pr,ae)
-#### Take a look around my profile to check some of them out!
+-->
 ---
 >📫 How to reach me:
 >> Email: <h4 href="mailto:rytaneja@gmail.com">rytaneja@gmail.com</h4>
