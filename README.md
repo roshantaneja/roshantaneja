@@ -11,6 +11,6 @@ Hi, I'm Roshan.
 -->
 📫 How to reach me:
 
-Email: <h4 href="mailto:rytaneja@gmail.com">rytaneja@gmail.com</h4>
+Email: <p href="mailto:rytaneja@gmail.com">rytaneja@gmail.com</p>
 
 Discord: roshantaneja
