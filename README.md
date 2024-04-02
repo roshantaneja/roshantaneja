@@ -9,8 +9,6 @@ Hi, I'm Roshan.
 <!--
 ![Skills](https://skillicons.dev/icons?i=py,java,cpp,discord,bots,js,html,pug,css,mongo,aws,ps,pr,ae)
 -->
-📫 How to reach me:
+📫: <p href="mailto:rytaneja@gmail.com">rytaneja@gmail.com</p>
 
-Email: <p href="mailto:rytaneja@gmail.com">rytaneja@gmail.com</p>
-
-Discord: roshantaneja
+Disc: roshantaneja
