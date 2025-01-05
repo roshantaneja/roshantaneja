@@ -18,4 +18,4 @@ Discord: roshantaneja
 
 ---
 
-If you're wondering why my commit history has dropped in activity, I'm currently in the middle of college applications. I'll get back to maintaining the CCC repo in February 2025.
+If you're wondering why my activity has dropped, I'm currently in the middle of college applications. I'll get back to maintaining the CCC repo in February 2025.
